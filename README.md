@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=MITUL%20BHATIA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Full-Stack%20Engineer%20-%20Agentic%20Systems%20%26%20LLM%20Infra&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=MITUL%20BHATIA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Full-Stack%20Engineer%20-%20Agentic%20Systems%20%26%20LLM%20Infra&descAlignY=55&descSize=18&_cb=1" width="100%"/>
 
 <a href="https://portfolio-one-lemon-ky5s9rn5fs.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+multi-agent+AI+systems+%F0%9F%A4%96;LangGraph+%2B+RAG+%2B+FastAPI+%2B+Next.js;Turning+ideas+into+real+working+products;Always+equipped+with+a+%27WE+BALL%27+attitude+%F0%9F%8F%80" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 <br/><br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,git,github,figma,tailwind,numpy,pandas,vercel,firebase&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,git,github,figma,tailwind,sklearn,redux,vercel,firebase&theme=dark&perline=10" />
 </a>
 
 </div>
@@ -254,6 +254,6 @@ Explore the rest of the build log — RAG search agents, race-strategy data scie
 
 <sub>🐍 snake setup: add <code>snake.yml</code> to <code>.github/workflows/</code> in this repo, push once, and the contribution-snake animation above goes live within a minute.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&_cb=1" width="100%"/>
 
 </div>
